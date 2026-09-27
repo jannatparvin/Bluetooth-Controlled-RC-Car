@@ -123,7 +123,7 @@ Lower this if the car is too fast/jerky for your surface, or raise it (up to 255
 
 ---
 
-## ⚠️ Safety Notes
+##  Safety Notes
 
 - Always connect a common ground between the Arduino, L298N, and battery — without it, the Bluetooth commands may be received but motors won't respond correctly.
 - Don't power the Arduino's 5V pin directly from the battery pack — power the Arduino via USB or its barrel jack, and let the L298N handle motor power only.
