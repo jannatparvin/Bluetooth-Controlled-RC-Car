@@ -114,6 +114,8 @@ Lower this if the car is too fast/jerky for your surface, or raise it (up to 255
 
 ---
 
+![image](image.jpg)
+
 ## Future Improvements
 
 - **Obstacle avoidance** — mount an HC-SR04 ultrasonic sensor on the servo, sweep it to scan for obstacles, and auto-stop/reroute
